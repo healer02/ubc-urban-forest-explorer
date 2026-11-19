@@ -1,0 +1,1289 @@
+[
+  {
+    "id": "thuja-plicata",
+    "common": "Western redcedar",
+    "botanical": "Thuja plicata",
+    "native": true,
+    "group": "Conifer",
+    "features": [
+      "Foliage forms flat, fanlike sprays of tiny overlapping scales.",
+      "Pale butterfly-shaped markings often show on the underside of a spray.",
+      "Mature trunks have fibrous, reddish-brown bark in long vertical strips."
+    ],
+    "lookalikes": "Other arborvitae and false cypresses also have scale leaves. Use the underside pattern together with the small, elongated cones rather than the foliage outline alone.",
+    "design": "Use as an evergreen screen where soil stays reasonably moist and the planting has room to grow.",
+    "ecology": "Shade-tolerant seedlings can establish in the understory of a coastal forest.",
+    "controversy": "On hotter, drier campus sites, when is it worth protecting and watering existing redcedars, and where should new plantings use a different species?",
+    "tour": "At Fairview Grove, UBC’s Beaty addition plan called for retaining 29 trees, primarily cedars and Douglas-firs, and removing 14. Use the grove to ask how a building footprint shapes what survives.",
+    "sources": [
+      {
+        "label": "Oregon State University · Western redcedar",
+        "url": "https://landscapeplants.oregonstate.edu/plants/thuja-plicata"
+      },
+      {
+        "label": "B.C. Tree Species Compendium · Western redcedar",
+        "url": "https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/stocking-standards/tree-species-compendium-index/western-redcedar"
+      },
+      {
+        "label": "UBC Campus and Community Planning · Tree management",
+        "url": "https://planning.ubc.ca/tree-management-ubc"
+      }
+    ],
+    "revision": "2fb520f8cb13",
+    "aliases": [],
+    "photo": {
+      "id": "thuja-plicata",
+      "credit": "© emma reader-lee",
+      "title": "Thuja plicata (iNaturalist photo 250896876)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/250896876",
+      "observationUrl": "https://www.inaturalist.org/observations/145994597",
+      "view": "Leaf",
+      "alt": "Flattened fans of green foliage have overlapping scale leaves.",
+      "url": "./assets/photos/thuja-plicata.jpg"
+    },
+    "locationCount": 1013
+  },
+  {
+    "id": "pseudotsuga-menziesii",
+    "common": "Douglas-fir",
+    "botanical": "Pseudotsuga menziesii",
+    "native": true,
+    "group": "Conifer",
+    "features": [
+      "Hanging seed cones have a three-pronged bract sticking out from beneath each scale.",
+      "Needles are single and flat, with two pale bands beneath.",
+      "Older trunks show thick, deeply furrowed bark."
+    ],
+    "lookalikes": "Grand fir has upright cones that break apart on the tree. Douglas-fir drops intact cones with protruding bracts.",
+    "design": "Give a future large canopy ample soil and space, and place paths and infrastructure with the mature tree in mind.",
+    "ecology": "Douglas-fir can establish after wildfire and persist as a long-lived canopy tree.",
+    "controversy": "During campus redevelopment, how much building flexibility would you trade to retain a mature Douglas-fir canopy?",
+    "tour": "Pass around a fallen cone and look for the three points of a bract. Then compare the bark of a young tree and a mature one.",
+    "sources": [
+      {
+        "label": "Oregon State University · Douglas-fir",
+        "url": "https://landscapeplants.oregonstate.edu/plants/pseudotsuga-menziesii"
+      },
+      {
+        "label": "B.C. Tree Species Compendium · Douglas-fir",
+        "url": "https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/stocking-standards/tree-species-compendium-index/douglas-fir"
+      },
+      {
+        "label": "UBC Campus and Community Planning · Tree management",
+        "url": "https://planning.ubc.ca/tree-management-ubc"
+      }
+    ],
+    "revision": "0e1ea8a98db0",
+    "aliases": [],
+    "photo": {
+      "id": "pseudotsuga-menziesii",
+      "credit": "© Justin",
+      "title": "Pseudotsuga menziesii (iNaturalist photo 117178182)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/117178182",
+      "observationUrl": "https://www.inaturalist.org/observations/71923963",
+      "view": "Leaf",
+      "alt": "Slender, flat needles project from both sides of a woody twig.",
+      "url": "./assets/photos/pseudotsuga-menziesii.jpg"
+    },
+    "locationCount": 540
+  },
+  {
+    "id": "acer-circinatum",
+    "common": "Vine maple",
+    "botanical": "Acer circinatum",
+    "native": true,
+    "group": "Broadleaf",
+    "features": [
+      "Opposite, nearly round leaves usually have seven to nine toothed lobes.",
+      "Paired winged fruits spread almost straight across from one another.",
+      "Often a many-stemmed small tree, with arching or sprawling stems in shade."
+    ],
+    "lookalikes": "Japanese maple often has narrower, more deeply divided lobes. Because cultivars vary, also compare the almost straight-across fruit wings of vine maple.",
+    "design": "Use as a small understory tree at a woodland edge with room for a spreading, multi-stemmed habit.",
+    "ecology": "Low stems can root where they touch the ground, allowing vine maple to spread by layering.",
+    "controversy": "On a narrow path, where can a vine maple keep its natural form, and where does pedestrian clearance call for a different planting?",
+    "tour": "Musqueam’s plant signs at UBC describe how springy sic̓əɬp stems were used in a fortification near campus. Look for the sign and listen to Elder Larry Grant’s pronunciation.",
+    "sources": [
+      {
+        "label": "E-Flora BC · Vine maple",
+        "url": "https://linnet.geog.ubc.ca/Atlas/Atlas.aspx?sciname=Acer+circinatum"
+      },
+      {
+        "label": "Oregon State University · Japanese maple",
+        "url": "https://landscapeplants.oregonstate.edu/plants/acer-palmatum"
+      },
+      {
+        "label": "Musqueam plant signage and audio at UBC",
+        "url": "https://vancouver.housing.ubc.ca/musqueam-plants/"
+      }
+    ],
+    "revision": "11224f8415e0",
+    "aliases": [],
+    "photo": {
+      "id": "acer-circinatum",
+      "credit": "© Derek",
+      "title": "Acer circinatum (iNaturalist photo 376084218)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/376084218",
+      "observationUrl": "https://www.inaturalist.org/observations/212814752",
+      "view": "Leaf",
+      "alt": "Broad, rounded green leaves with radiating pointed lobes.",
+      "url": "./assets/photos/acer-circinatum.jpg"
+    },
+    "locationCount": 415
+  },
+  {
+    "id": "acer-platanoides",
+    "common": "Norway maple",
+    "botanical": "Acer platanoides",
+    "native": false,
+    "group": "Broadleaf",
+    "features": [
+      "Opposite leaves, usually with five broad, pointed lobes.",
+      "A freshly broken leaf stalk usually exudes milky sap.",
+      "Paired winged fruits spread widely, often nearly in a straight line."
+    ],
+    "lookalikes": "Sugar maple has clear sap in the leaf stalk and its paired fruit wings usually angle closer together. Compare a few mature leaves and fruits where possible.",
+    "design": "Its dense crown gives street shade. Allow generous rooting space where surface roots could lift paving.",
+    "ecology": "Fertile trees can produce abundant seedlings that compete with native plants in nearby woodlands.",
+    "controversy": "Where Norway maple is recruiting into woodland, would you retain a mature shade tree and manage seedlings, or schedule replacement? What would you measure first?",
+    "tour": "Have the group compare the angle of fallen maple samaras. Then look below an adult tree for seedlings and discuss how far a planting can spread.",
+    "sources": [
+      {
+        "label": "Oregon State University · Norway maple and sugar maple comparison",
+        "url": "https://landscapeplants.oregonstate.edu/plants/acer-platanoides"
+      }
+    ],
+    "revision": "41767e70bda1",
+    "aliases": [],
+    "photo": {
+      "id": "acer-platanoides",
+      "credit": "© Patrice Dupont",
+      "title": "Acer platanoides (iNaturalist photo 678451031)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/678451031",
+      "observationUrl": "https://www.inaturalist.org/observations/371336881",
+      "view": "Leaf",
+      "alt": "A pale broad maple leaf with sharply pointed lobes and shallow gaps.",
+      "url": "./assets/photos/acer-platanoides.jpg"
+    },
+    "locationCount": 369
+  },
+  {
+    "id": "acer-palmatum",
+    "common": "Japanese maple",
+    "botanical": "Acer palmatum",
+    "native": false,
+    "group": "Broadleaf",
+    "features": [
+      "Opposite leaves typically have five to nine sharply pointed, toothed lobes.",
+      "The lobes are usually divided deeply toward the base, with wide variation among cultivars.",
+      "Slender young twigs can be green or reddish, often on a small multistemmed tree."
+    ],
+    "lookalikes": "Vine maple typically has a rounder leaf outline and broader, shallower lobes. Inspect several leaves because cut-leaf cultivars can blur the distinction.",
+    "design": "Use as a small specimen in a sheltered courtyard or under a light canopy. Exposed, hot sites can scorch its foliage.",
+    "ecology": "At Nitobe, the garden staff observed that fallen seeds germinated among mosses, producing seedlings the staff routinely remove.",
+    "controversy": "When a culturally important planting self-seeds, which seedlings would you keep, share or remove? How would your answer change near a restoration site?",
+    "tour": "Nitobe Memorial Garden uses Japanese maple and vine maple on opposite sides of a pond that represents the Pacific. Use the pairing to ask what the plants contribute to the design.",
+    "sources": [
+      {
+        "label": "Oregon State University · Japanese maple",
+        "url": "https://landscapeplants.oregonstate.edu/plants/acer-palmatum"
+      },
+      {
+        "label": "Oregon State University · Vine maple",
+        "url": "https://landscapeplants.oregonstate.edu/plants/acer-circinatum"
+      },
+      {
+        "label": "UBC Botanical Garden · Nitobe maple seedlings and garden design",
+        "url": "https://botanicalgarden.ubc.ca/news-events/sharing-a-piece-of-nitobe-memorial-garden-japanese-maple-sharing-event-for-families/"
+      },
+      {
+        "label": "NC State Extension · Japanese maple siting",
+        "url": "https://plants.ces.ncsu.edu/plants/acer-palmatum/"
+      }
+    ],
+    "revision": "da08215602eb",
+    "aliases": [],
+    "photo": {
+      "id": "acer-palmatum",
+      "credit": "Offkey (iNaturalist contributor)",
+      "title": "Acer palmatum (iNaturalist photo 324775188)",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/324775188",
+      "observationUrl": "https://www.inaturalist.org/observations/185909345",
+      "view": "Leaf",
+      "alt": "Slender pointed lobes radiate from the bases of green leaves.",
+      "url": "./assets/photos/acer-palmatum.jpg"
+    },
+    "locationCount": 365
+  },
+  {
+    "id": "acer-freemanii",
+    "common": "Freeman maple",
+    "botanical": "Acer × freemanii",
+    "native": false,
+    "group": "Broadleaf",
+    "features": [
+      "Opposite, palmately lobed leaves. Several cultivars have five deeply cut lobes.",
+      "On trees that fruit, paired samara wings may be intermediate in length between red and silver maple.",
+      "Cultivar form varies from narrow and upright to broadly oval. Fall colour also varies."
+    ],
+    "lookalikes": "Red and silver maple are its parents. Red maple often has shallower lobes, while silver maple often has deeper sinuses. Shapes overlap, so use paired fruits, a reliable planting record, or leave a field identification tentative.",
+    "design": "Select a cultivar with a mature crown width that fits the available space. Some cultivars selected for street planting are much narrower than others.",
+    "ecology": "Red and silver maple hybridize naturally where their ranges overlap in eastern North America. Cultivated selections show different mixtures of parental traits.",
+    "controversy": "If a cultivar is sold under both red maple and Freeman maple, how should a campus inventory record it? Which evidence would justify a species-level label?",
+    "tour": "Compare a Freeman maple and its parent species if available. Ask whether leaf shape alone is enough, then explain why a gardener’s label or planting record can be valuable.",
+    "sources": [
+      {
+        "label": "Oregon State University · Freeman maple ID and cultivars",
+        "url": "https://landscapeplants.oregonstate.edu/plants/acer-freemanii"
+      },
+      {
+        "label": "Kew · Freeman maple parentage and native range",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:56663-1"
+      }
+    ],
+    "revision": "73e356c3e910",
+    "aliases": [],
+    "photo": {
+      "id": "acer-freemanii",
+      "credit": "© Loïc Mathieu",
+      "title": "Acer × freemanii (iNaturalist photo 763250424)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/763250424",
+      "observationUrl": "https://www.inaturalist.org/observations/414590074",
+      "view": "Leaf",
+      "alt": "Green, pointed maple leaves with deep gaps between the main lobes.",
+      "url": "./assets/photos/acer-freemanii.jpg"
+    },
+    "locationCount": 278
+  },
+  {
+    "id": "prunus-serrulata",
+    "common": "Japanese flowering cherry",
+    "botanical": "Prunus serrulata",
+    "native": false,
+    "group": "Broadleaf",
+    "features": [
+      "Alternate leaves with long tips and finely bristle-tipped teeth.",
+      "Horizontal lenticels make conspicuous dashes across the bark.",
+      "Showy spring flower clusters. Petal count, colour and bloom time vary among cultivated forms."
+    ],
+    "lookalikes": "Yoshino cherry often opens pale, mostly five-petalled flowers before the leaves. A dense cluster of double pink blossoms fits cultivars such as ‘Kanzan’. Use flower structure and a cultivar record together.",
+    "design": "Use as a flowering accent or in a small group where the spring display is easy to see from a path.",
+    "ecology": "Several cultivated flowering cherries have mixed ancestry. Many are grafted, so shoots from below the graft can belong to a different cherry.",
+    "controversy": "When replacing a flowering cherry avenue, how much should the design prioritize a synchronized blossom display, and how much should it diversify the planting?",
+    "tour": "Ask people to compare leaf-out and flower development. UBC Botanical Garden uses cultivar-specific bloom times to guide visitors through its cherry season.",
+    "sources": [
+      {
+        "label": "Oregon State University · Japanese flowering cherry cultivars",
+        "url": "https://landscapeplants.oregonstate.edu/plants/prunus-serrulata"
+      },
+      {
+        "label": "Oregon State University · Yoshino cherry",
+        "url": "https://landscapeplants.oregonstate.edu/plants/prunus-yedoensis"
+      },
+      {
+        "label": "UBC Botanical Garden · Cherry blossom season",
+        "url": "https://botanicalgarden.ubc.ca/news-events/exploring-cherry-blossoms-at-ubc-botanical-garden-and-nitobe-memorial-garden/"
+      }
+    ],
+    "revision": "3d04300b453e",
+    "aliases": [
+      "Japanese cherry"
+    ],
+    "photo": {
+      "id": "prunus-serrulata",
+      "credit": "© Jon Sullivan",
+      "title": "Prunus serrulata (iNaturalist photo 1197777)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/1197777",
+      "observationUrl": "https://www.inaturalist.org/observations/1012214",
+      "view": "Form",
+      "alt": "A tree in spring with a spreading crown full of pale blossoms.",
+      "url": "./assets/photos/prunus-serrulata.jpg"
+    },
+    "locationCount": 276
+  },
+  {
+    "id": "pinus-nigra",
+    "common": "Austrian pine",
+    "botanical": "Pinus nigra",
+    "native": false,
+    "group": "Conifer",
+    "features": [
+      "Stiff, dark needles in bundles of two, often about 8–12 cm long.",
+      "Egg-shaped seed cones, roughly 4–8 cm long, sometimes grouped.",
+      "Resinous buds and a crown that often spreads and flattens with age."
+    ],
+    "lookalikes": "Japanese black pine also has paired needles, but often sports conspicuously silvery-white, non-resinous terminal buds. Use the buds and cones alongside needle length.",
+    "design": "Allow room for the broad mature crown when using it as an evergreen screen. It tolerates a range of soils and some salt exposure.",
+    "ecology": "Some needles remain on the branch for several years, so a healthy twig often carries multiple years of foliage.",
+    "controversy": "How should disease susceptibility weigh against salt and drought tolerance when choosing pines for a streetscape? Austrian pine is susceptible to Diplodia shoot blight.",
+    "tour": "Count the needles in a bundle, then use the bud and cone to test which pine you are seeing. ‘Black pine’ can refer to more than one species.",
+    "sources": [
+      {
+        "label": "Oregon State University · Austrian pine",
+        "url": "https://landscapeplants.oregonstate.edu/plants/pinus-nigra"
+      },
+      {
+        "label": "Oregon State University · Japanese black pine",
+        "url": "https://landscapeplants.oregonstate.edu/plants/pinus-thunbergii"
+      },
+      {
+        "label": "Oklahoma State Extension · Austrian pine site tolerances and disease",
+        "url": "https://extension.okstate.edu/programs/plant-id/plant-profiles/austrian-pine"
+      }
+    ],
+    "revision": "7ff627ca6ee7",
+    "aliases": [
+      "Black pine",
+      "European black pine"
+    ],
+    "photo": {
+      "id": "pinus-nigra",
+      "credit": "© pavlaki1968",
+      "title": "Pinus nigra (iNaturalist photo 166421083)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/166421083",
+      "observationUrl": "https://www.inaturalist.org/observations/99783167",
+      "view": "Leaf",
+      "alt": "Long, stiff dark-green needles stand out from a pine twig.",
+      "url": "./assets/photos/pinus-nigra.jpg"
+    },
+    "locationCount": 242
+  },
+  {
+    "id": "quercus-rubra",
+    "common": "Northern red oak",
+    "botanical": "Quercus rubra",
+    "native": false,
+    "group": "Broadleaf",
+    "features": [
+      "Alternate leaves with broad, pointed lobes ending in fine bristles.",
+      "Large acorns rest in a shallow, saucer-shaped cup.",
+      "The mature tree often has a broad crown with large, rising limbs."
+    ],
+    "lookalikes": "Garry oak has rounded lobe tips. Pin oak also has bristles, but typically has deeper leaf sinuses, smaller acorns and downward-sloping lower branches.",
+    "design": "Its broad canopy can shade a lawn or plaza edge with ample soil space. Provide drainage and account for acorn drop near paths.",
+    "ecology": "Acorns take two growing seasons to mature and provide food for wildlife in the tree’s native range.",
+    "controversy": "For a ceremonial tree, how would you balance visual impact, longevity and support for regional biodiversity? Would the priorities differ beside a restoration site?",
+    "tour": "UBC’s 2025 graduation program identifies the class tree as a red oak on Main Mall north of University Boulevard. Check the plaque and acorn or leaf traits before linking a mapped point to the dedication.",
+    "sources": [
+      {
+        "label": "Oregon State University · Northern red oak",
+        "url": "https://landscapeplants.oregonstate.edu/plants/quercus-rubra"
+      },
+      {
+        "label": "Oregon State University · Pin oak",
+        "url": "https://landscapeplants.oregonstate.edu/plants/quercus-palustris"
+      },
+      {
+        "label": "Oregon State University · Garry oak",
+        "url": "https://landscapeplants.oregonstate.edu/plants/quercus-garryana"
+      },
+      {
+        "label": "USDA Forest Service · Northern red oak ecology",
+        "url": "https://research.fs.usda.gov/silvics/northern-red-oak"
+      },
+      {
+        "label": "UBC Fall Congregation 2025 · Grad class legacy",
+        "url": "https://graduation.sites.olt.ubc.ca/files/2025/05/Digital-Graduation-Program-1080x1920-UBC-2025-FINAL.pdf#page=13"
+      }
+    ],
+    "revision": "d4f8a97ac16e",
+    "aliases": [],
+    "photo": {
+      "id": "quercus-rubra",
+      "credit": "© Loïc Mathieu",
+      "title": "Quercus rubra (iNaturalist photo 764456084)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/764456084",
+      "observationUrl": "https://www.inaturalist.org/observations/415181420",
+      "view": "Bark",
+      "alt": "Gray trunk bark has long, pale ridges and narrow darker grooves.",
+      "url": "./assets/photos/quercus-rubra.jpg"
+    },
+    "locationCount": 221
+  },
+  {
+    "id": "cercidiphyllum-japonicum",
+    "common": "Katsura",
+    "botanical": "Cercidiphyllum japonicum",
+    "native": false,
+    "group": "Broadleaf",
+    "features": [
+      "Small, rounded heart-shaped leaves with finely scalloped edges.",
+      "Leaves are often opposite or nearly opposite on the longer shoots.",
+      "Senescing foliage can give off a sweet, burnt-sugar scent in autumn."
+    ],
+    "lookalikes": "Eastern redbud also has heart-shaped leaves. Its leaves are alternate and typically have smooth margins. Its flattened pods are much longer than katsura’s small pods.",
+    "design": "Use as a specimen where autumn scent can be noticed and the root zone can stay moist through dry spells.",
+    "ecology": "Katsura is typically dioecious. Small pollen and seed-bearing flowers usually occur on different trees.",
+    "controversy": "Would you specify katsura for its fall colour and scent in a site that needs summer irrigation, or choose a species better suited to that moisture regime?",
+    "tour": "Ask what can identify a tree without sight. Autumn katsura leaves release a sweet scent associated with maltol. The scent may be faint on an individual leaf.",
+    "sources": [
+      {
+        "label": "Oregon State University · Katsura",
+        "url": "https://landscapeplants.oregonstate.edu/plants/cercidiphyllum-japonicum"
+      },
+      {
+        "label": "Oregon State University · Eastern redbud",
+        "url": "https://landscapeplants.oregonstate.edu/plants/cercis-canadensis"
+      },
+      {
+        "label": "Arnold Arboretum · Katsura",
+        "url": "https://arboretum.harvard.edu/plant-bios/katsura/"
+      },
+      {
+        "label": "Tiefel and Berger · Seasonal variation in katsura leaf maltol",
+        "url": "https://doi.org/10.1002/jsfa.2740630110"
+      }
+    ],
+    "revision": "478adbd7a154",
+    "aliases": [
+      "Katsura tree"
+    ],
+    "photo": {
+      "id": "cercidiphyllum-japonicum",
+      "credit": "© WATANABE Hitoshi 渡辺仁",
+      "title": "Cercidiphyllum japonicum (iNaturalist photo 649953742)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/649953742",
+      "observationUrl": "https://www.inaturalist.org/observations/356403889",
+      "view": "Leaf",
+      "alt": "A drooping branch with round, blunt-toothed green leaves.",
+      "url": "./assets/photos/cercidiphyllum-japonicum.jpg"
+    },
+    "locationCount": 196
+  },
+  {
+    "id": "cornus-kousa",
+    "common": "Kousa dogwood",
+    "botanical": "Cornus kousa",
+    "native": false,
+    "group": "Broadleaf",
+    "features": [
+      "Opposite leaves with pointed tips and veins curving toward the tip.",
+      "Four pointed showy bracts surround the tiny flowers, usually after the leaves emerge.",
+      "Round, bumpy pink-to-red fruit hangs from a long stalk."
+    ],
+    "lookalikes": "Pacific dogwood usually has more than four bracts, and its fruit head shows separate small drupes. Kousa’s mature fruit looks like a fused, bumpy sphere. Hybrids can combine traits.",
+    "design": "Its small stature and layered branching suit a courtyard with well-drained soil and some room for horizontal spread.",
+    "ecology": "Birds eat the ripe fruit. Each bumpy fruit develops from a group of small flowers.",
+    "controversy": "When disease has affected native dogwoods at a site, how would you weigh a locally native planting against an introduced or hybrid dogwood selected for landscape performance?",
+    "tour": "Ask visitors to count the pointed bracts, then look for the tiny flowers at the centre. UBC documented removal of a Pacific dogwood near Ponderosa F after suspected leaf blight, a local lead for discussing tree choice.",
+    "sources": [
+      {
+        "label": "Oregon State University · Kousa dogwood",
+        "url": "https://landscapeplants.oregonstate.edu/plants/cornus-kousa"
+      },
+      {
+        "label": "Oregon State University · Pacific dogwood",
+        "url": "https://landscapeplants.oregonstate.edu/plants/cornus-nuttallii"
+      },
+      {
+        "label": "UBC · Tree management and Ponderosa F removal",
+        "url": "https://planning.ubc.ca/tree-management-ubc"
+      }
+    ],
+    "revision": "3c463b3fcd4a",
+    "aliases": [
+      "Japanese dogwood"
+    ],
+    "photo": {
+      "id": "cornus-kousa",
+      "credit": "© Carrie Seltzer",
+      "title": "Cornus kousa (iNaturalist photo 4116663)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/4116663",
+      "observationUrl": "https://www.inaturalist.org/observations/3532942",
+      "view": "Leaf",
+      "alt": "Tapered, curved-veined green leaves with white bracts on the same branch.",
+      "url": "./assets/photos/cornus-kousa.jpg"
+    },
+    "locationCount": 174
+  },
+  {
+    "id": "liquidambar-styraciflua",
+    "common": "Sweetgum",
+    "botanical": "Liquidambar styraciflua",
+    "native": false,
+    "group": "Broadleaf",
+    "features": [
+      "Alternate, usually five-pointed star-shaped leaves with fine teeth.",
+      "Hard, prickly spherical fruit clusters often persist into winter.",
+      "Some twigs develop raised corky wings."
+    ],
+    "lookalikes": "Maples have opposite leaves and paired winged fruits. Sweetgum staggers its leaves along the twig and carries woody spiky balls.",
+    "design": "Use for fall colour where there is soil volume for its roots and space for the fruit to fall clear of busy walking surfaces.",
+    "ecology": "The hard fruit ball opens through small holes and releases many winged seeds.",
+    "controversy": "Where sweetgum fruit collects on an accessible path, would you move the path, budget for cleanup or choose a low-fruiting selection? What else might you trade away?",
+    "tour": "Use a fallen fruit to ask how an unmoving wooden ball disperses seeds. Then compare the leaf arrangement with a nearby maple.",
+    "sources": [
+      {
+        "label": "Oregon State University · Sweetgum structure, siting and cultivars",
+        "url": "https://landscapeplants.oregonstate.edu/plants/liquidambar-styraciflua"
+      },
+      {
+        "label": "Oregon State University · Maple leaf arrangement and fruits",
+        "url": "https://landscapeplants.oregonstate.edu/acer"
+      }
+    ],
+    "revision": "736dc67745ef",
+    "aliases": [
+      "American sweetgum",
+      "Sweet gum"
+    ],
+    "photo": {
+      "id": "liquidambar-styraciflua",
+      "credit": "© Steve Taylor",
+      "title": "Liquidambar styraciflua (iNaturalist photo 74204086)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/74204086",
+      "observationUrl": "https://www.inaturalist.org/observations/46789279",
+      "view": "Leaf",
+      "alt": "Glossy green leaves with long lobes arranged like a star.",
+      "url": "./assets/photos/liquidambar-styraciflua.jpg"
+    },
+    "locationCount": 161
+  },
+  {
+    "id": "platanus-hispanica",
+    "common": "London plane",
+    "botanical": "Platanus × hispanica",
+    "native": false,
+    "group": "Broadleaf",
+    "features": [
+      "Bark flakes off to expose patches of cream, green and grey.",
+      "Alternate, maple-shaped leaves are generally broad and three- to five-lobed.",
+      "Round seed heads hang on long stalks, frequently in pairs."
+    ],
+    "lookalikes": "American sycamore shares the mottled bark but often has one fruit ball per stalk. A pair favours London plane. Confirm with several fruiting stalks or a planting record.",
+    "design": "A large street shade tree where there is room for its mature crown. Allow for fallen leaves, twigs and seed heads.",
+    "ecology": "The round seed heads come apart in winter, releasing small fruits with hairs that help them move in the wind.",
+    "controversy": "In a long avenue, how would you balance a consistent canopy against diversification for disease resilience? Even within London plane, cultivars vary in anthracnose susceptibility.",
+    "tour": "Have the group identify the tree from its bark in winter, and then look up for seed heads. It is a hybrid of American sycamore and oriental plane.",
+    "sources": [
+      {
+        "label": "The Morton Arboretum · London plane and cultivar susceptibility",
+        "url": "https://mortonarb.org/plant-and-protect/trees-and-plants/london-planetree/"
+      },
+      {
+        "label": "Kew · London plane name and parentage",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:685854-1/general-information"
+      },
+      {
+        "label": "University College Cork · London plane identification and dispersal",
+        "url": "https://www.ucc.ie/en/tree-explorers/trees/a-z/platanusxacerifolia/"
+      }
+    ],
+    "revision": "8361fbbadaa7",
+    "aliases": [
+      "London planetree",
+      "Platanus × acerifolia"
+    ],
+    "photo": {
+      "id": "platanus-hispanica",
+      "credit": "Stephen James McWilliam (iNaturalist contributor)",
+      "title": "Platanus × hispanica (iNaturalist photo 759719962)",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/759719962",
+      "observationUrl": "https://www.inaturalist.org/observations/412844277",
+      "view": "Bark",
+      "alt": "The trunk surface has patches of gray, tan and pale peeling bark.",
+      "url": "./assets/photos/platanus-hispanica.jpg"
+    },
+    "locationCount": 130
+  },
+  {
+    "id": "tsuga-heterophylla",
+    "common": "Western hemlock",
+    "botanical": "Tsuga heterophylla",
+    "native": true,
+    "group": "Conifer",
+    "features": [
+      "Short, flat needles of noticeably different lengths grow along the same twig.",
+      "Tiny hanging cones are usually about 2 to 2.5 cm long.",
+      "The top shoot often bends over, and branch tips tend to droop."
+    ],
+    "lookalikes": "Mountain hemlock typically has bluer needles spreading around the twig and larger cones. Young Douglas-fir has larger cones with three-pronged bracts.",
+    "design": "Plant as a long-term canopy tree in a sheltered woodland setting with moist rooting soil.",
+    "ecology": "Seedlings can take root on a decaying log, then extend roots down toward the forest floor.",
+    "controversy": "Where can a rotting log remain as a nursery for seedlings, and where does heavy foot traffic make a different location more suitable?",
+    "tour": "Look for a hemlock with exposed roots that straddle an empty space. A now-decayed nurse log is one possible explanation for that shape.",
+    "sources": [
+      {
+        "label": "Oregon State University · Western hemlock",
+        "url": "https://landscapeplants.oregonstate.edu/plants/tsuga-heterophylla"
+      },
+      {
+        "label": "Oregon State University · Mountain hemlock",
+        "url": "https://landscapeplants.oregonstate.edu/plants/tsuga-mertensiana"
+      },
+      {
+        "label": "UBC Botanical Garden · BC Rainforest Garden",
+        "url": "https://botanicalgarden.ubc.ca/attractions-gardens/bc-rainforest-garden/"
+      }
+    ],
+    "revision": "a73322cce403",
+    "aliases": [],
+    "photo": {
+      "id": "tsuga-heterophylla",
+      "credit": "© Sandy Rae",
+      "title": "Tsuga heterophylla (iNaturalist photo 765367272)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/765367272",
+      "observationUrl": "https://www.inaturalist.org/observations/415633820",
+      "view": "Leaf",
+      "alt": "Short, uneven-length needles surround a twig with small brown cones.",
+      "url": "./assets/photos/tsuga-heterophylla.jpg"
+    },
+    "locationCount": 99
+  },
+  {
+    "id": "tilia-cordata",
+    "common": "Littleleaf linden",
+    "botanical": "Tilia cordata",
+    "native": false,
+    "group": "Broadleaf",
+    "features": [
+      "Small alternate heart-shaped leaves with finely toothed edges.",
+      "Look for rusty hair tufts where major veins meet on the leaf underside.",
+      "Fragrant early-summer blossoms and later small nutlets hang from a long, strap-like bract."
+    ],
+    "lookalikes": "Largeleaf linden generally has larger leaves and more hairy undersides, with pale hair tufts. Combine underside hairs with fruit characters because leaf size can overlap.",
+    "design": "Use as a shade tree where its mature crown fits. An avenue can emphasize its upright form and fragrant bloom.",
+    "ecology": "Nectar-rich flowers attract bees and other pollinators in early summer.",
+    "controversy": "If aphids drip honeydew onto benches, how would you weigh the value of the tree’s shade and flowers against the maintenance demand? Would relocating seating solve the conflict?",
+    "tour": "Use littleleaf linden to introduce the genus, then tell the story of UBC’s early graduation lindens. Confirm those trees’ species independently before calling them littleleaf.",
+    "sources": [
+      {
+        "label": "Oregon State University · Littleleaf linden",
+        "url": "https://landscapeplants.oregonstate.edu/plants/tilia-cordata"
+      },
+      {
+        "label": "City of Portland · Linden identification key",
+        "url": "https://www.portland.gov/trees/get-involved/documents/tilia-linden/download"
+      },
+      {
+        "label": "The Morton Arboretum · Littleleaf linden care and pests",
+        "url": "https://mortonarb.org/plant-and-protect/trees-and-plants/little-leaved-linden/"
+      },
+      {
+        "label": "NC State Extension · Littleleaf linden and pollinators",
+        "url": "https://plants.ces.ncsu.edu/plants/tilia-cordata/"
+      },
+      {
+        "label": "UBC Magazine · Campus roots",
+        "url": "https://magazine.alumni.ubc.ca/2020/best-of-2010-2020/features/campus-roots"
+      }
+    ],
+    "revision": "5f43f88138da",
+    "aliases": [
+      "Little-leaved linden",
+      "Small-leaved lime"
+    ],
+    "photo": {
+      "id": "tilia-cordata",
+      "credit": "© Oleksandr Shynder",
+      "title": "Tilia cordata (iNaturalist photo 214148011)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/214148011",
+      "observationUrl": "https://www.inaturalist.org/observations/126229128",
+      "view": "Leaf",
+      "alt": "A small pale-green heart-shaped leaf has serrated edges.",
+      "url": "./assets/photos/tilia-cordata.jpg"
+    },
+    "locationCount": 79
+  },
+  {
+    "id": "acer-macrophyllum",
+    "common": "Bigleaf maple",
+    "botanical": "Acer macrophyllum",
+    "native": true,
+    "group": "Broadleaf",
+    "features": [
+      "Opposite leaves are large, with five main lobes and deep cuts between them.",
+      "Paired winged fruits have visibly hairy seed bodies.",
+      "Older bark becomes ridged and often carries mosses and lichens."
+    ],
+    "lookalikes": "Norway maple usually has shallower cuts between the lobes and smooth seed bodies. Use both leaf shape and fruit hairs when available.",
+    "design": "Use the spreading crown to shade a spacious lawn or woodland edge where roots and branches can extend.",
+    "ecology": "Its trunks and larger limbs can support epiphytes such as licorice fern.",
+    "controversy": "If a mature maple conflicts with a path upgrade, how should the design account for the habitat on its limbs and trunk as well as the shade it provides?",
+    "tour": "Look at the branches as well as the crown. In UBC’s BC Rainforest Garden, bigleaf maple trunks and limbs are a favourite substrate for licorice fern.",
+    "sources": [
+      {
+        "label": "E-Flora BC · Bigleaf maple and maple identification key",
+        "url": "https://linnet.geog.ubc.ca/Atlas/Atlas.aspx?sciname=Acer+macrophyllum"
+      },
+      {
+        "label": "UBC Botanical Garden · BC Rainforest Garden",
+        "url": "https://botanicalgarden.ubc.ca/attractions-gardens/bc-rainforest-garden/"
+      }
+    ],
+    "revision": "ca657b3ab9b2",
+    "aliases": [],
+    "photo": {
+      "id": "acer-macrophyllum",
+      "credit": "Robert Ross (iNaturalist contributor)",
+      "title": "Acer macrophyllum (iNaturalist photo 240925884)",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/240925884",
+      "observationUrl": "https://www.inaturalist.org/observations/140723202",
+      "view": "Leaf",
+      "alt": "A person holds an exceptionally large, five-lobed yellow leaf.",
+      "url": "./assets/photos/acer-macrophyllum.jpg"
+    },
+    "locationCount": 68
+  },
+  {
+    "id": "cornus-nuttallii",
+    "common": "Pacific dogwood",
+    "botanical": "Cornus nuttallii",
+    "native": true,
+    "group": "Broadleaf",
+    "features": [
+      "Large white bracts, often six, surround a small cluster of true flowers.",
+      "Oval leaves are opposite, with conspicuous veins curving towards the tip.",
+      "Fruit forms a tight cluster of separate orange to red drupes."
+    ],
+    "lookalikes": "Kousa dogwood usually has four pointed bracts and a single, fused, bumpy fruit. Check fruit or several blooms if a bract count is ambiguous.",
+    "design": "Use as a small flowering tree in partial shade with well-drained, organic soil. Avoid exposing its bark to intense afternoon sun.",
+    "ecology": "In southwestern B.C. it occurs in mesic to moist forests, commonly as a small tree beneath the main canopy.",
+    "controversy": "After a suspected leaf-blight loss, would you replant Pacific dogwood on a better site or choose a different species for the same location?",
+    "tour": "B.C.’s floral emblem is the Pacific dogwood. At a spring stop, invite the group to find the true flowers tucked inside the showy white bracts.",
+    "sources": [
+      {
+        "label": "E-Flora BC · Pacific dogwood",
+        "url": "https://linnet.geog.ubc.ca/Atlas/Atlas.aspx?sciname=Cornus+nuttallii"
+      },
+      {
+        "label": "Oregon State University · Pacific dogwood",
+        "url": "https://landscapeplants.oregonstate.edu/plants/cornus-nuttallii"
+      },
+      {
+        "label": "Oregon State University · Kousa dogwood",
+        "url": "https://landscapeplants.oregonstate.edu/plants/cornus-kousa"
+      },
+      {
+        "label": "UBC · Ponderosa F tree removal notice, February 2024",
+        "url": "https://planning.ubc.ca/tree-management-ubc"
+      },
+      {
+        "label": "Government of B.C. · Provincial coat of arms",
+        "url": "https://www2.gov.bc.ca/gov/content/governments/celebrating-british-columbia/symbols-of-bc/coat-of-arms"
+      }
+    ],
+    "revision": "76aec92a5662",
+    "aliases": [
+      "Western flowering dogwood"
+    ],
+    "photo": {
+      "id": "cornus-nuttallii",
+      "credit": "© Barbara Banfield",
+      "title": "Cornus nuttallii (iNaturalist photo 4879338)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/4879338",
+      "observationUrl": "https://www.inaturalist.org/observations/4106111",
+      "view": "Leaf",
+      "alt": "Broad, curved-veined leaves near a red cluster of small fruits.",
+      "url": "./assets/photos/cornus-nuttallii.jpg"
+    },
+    "locationCount": 45
+  },
+  {
+    "id": "ginkgo-biloba",
+    "common": "Ginkgo",
+    "botanical": "Ginkgo biloba",
+    "native": false,
+    "group": "Ginkgo",
+    "features": [
+      "Fan-shaped leaves with repeatedly forked veins and often a notch at the outer edge.",
+      "Leaves cluster at the tips of short spur shoots.",
+      "Deciduous foliage typically turns bright yellow in autumn."
+    ],
+    "lookalikes": "Katsura has a rounded, heart-shaped blade with distinct veins radiating from its base. Ginkgo’s fan has a tapered base and finer veins that repeatedly fork.",
+    "design": "Used as an urban shade tree on difficult sites. Where fallen seed coverings would create a cleanup burden, designers often specify a pollen-producing cultivar.",
+    "ecology": "Pollen and seeds usually occur on separate trees. The plum-like structure is the fleshy coat of a gymnosperm seed.",
+    "controversy": "Should a public planting prioritize the easy maintenance of pollen-producing cultivars, or make room for seed-bearing trees and the opportunity to see their full life cycle?",
+    "tour": "Hold a fallen leaf up to the light and trace a forked vein. Then ask how this broad-leaved tree fits among gymnosperms. Kew reports that wild ginkgo is endangered.",
+    "sources": [
+      {
+        "label": "Oregon State University · Ginkgo leaves, seeds and selection",
+        "url": "https://landscapeplants.oregonstate.edu/plants/ginkgo-biloba"
+      },
+      {
+        "label": "Kew · Ginkgo, native range and conservation",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:262125-1/general-information"
+      }
+    ],
+    "revision": "1175065b1c59",
+    "aliases": [
+      "Maidenhair tree"
+    ],
+    "photo": {
+      "id": "ginkgo-biloba",
+      "credit": "© Emily Summerbell",
+      "title": "Ginkgo biloba (iNaturalist photo 74219634)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/74219634",
+      "observationUrl": "https://www.inaturalist.org/observations/46798725",
+      "view": "Leaf",
+      "alt": "A hand holds a wide green fan-shaped leaf.",
+      "url": "./assets/photos/ginkgo-biloba.jpg"
+    },
+    "locationCount": 44
+  },
+  {
+    "id": "alnus-rubra",
+    "common": "Red alder",
+    "botanical": "Alnus rubra",
+    "native": true,
+    "group": "Broadleaf",
+    "features": [
+      "Leaves are alternate and coarsely toothed, with margins that curl under.",
+      "Small woody seed clusters resemble cones and can persist after leaf fall.",
+      "Bark is relatively smooth and light grey, often mottled by lichens."
+    ],
+    "lookalikes": "White alder has finer teeth and leaf margins that generally stay flat. The rolled-under edge is a more reliable clue than bark colour.",
+    "design": "Use as a quick-establishing pioneer in open, moist restoration sites.",
+    "ecology": "Frankia bacteria in alder root nodules fix nitrogen, increasing nitrogen availability in the surrounding soil over time.",
+    "controversy": "Would you retain self-seeded alder as early cover after construction or thin it to give planted trees more light?",
+    "tour": "An alder’s cone-like structures are woody flower clusters. Use one to compare how a flowering tree and nearby conifers package their seeds.",
+    "sources": [
+      {
+        "label": "Oregon State University · Red alder",
+        "url": "https://landscapeplants.oregonstate.edu/plants/alnus-rubra"
+      },
+      {
+        "label": "B.C. Tree Species Compendium · Red alder",
+        "url": "https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/stocking-standards/tree-species-compendium-index/red-alder"
+      }
+    ],
+    "revision": "fe050fd26866",
+    "aliases": [],
+    "photo": {
+      "id": "alnus-rubra",
+      "credit": "Daniel Das (iNaturalist contributor)",
+      "title": "Alnus rubra (iNaturalist photo 725378440)",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/725378440",
+      "observationUrl": "https://www.inaturalist.org/observations/395604747",
+      "view": "Leaf",
+      "alt": "Oval leaves have toothed edges and strong, parallel side veins.",
+      "url": "./assets/photos/alnus-rubra.jpg"
+    },
+    "locationCount": 35
+  },
+  {
+    "id": "abies-grandis",
+    "common": "Grand fir",
+    "botanical": "Abies grandis",
+    "native": true,
+    "group": "Conifer",
+    "features": [
+      "Lower branches often carry flat needles spread in two distinct rows.",
+      "Needles often have notched tips and two pale bands on the underside.",
+      "Cylindrical seed cones stand upright and break apart as they mature."
+    ],
+    "lookalikes": "Douglas-fir cones hang down and fall whole. Western hemlock cones also hang, and they are much smaller.",
+    "design": "Use as a specimen in a park-scale space with room for a tall conical crown.",
+    "ecology": "Seedlings can regenerate beneath partial canopy. The provincial compendium reports better survival in moderate shade than in the open.",
+    "controversy": "A young grand fir fits a small space. How much room should a campus planting plan reserve for its mature crown, and what would that space displace?",
+    "tour": "Look below a Douglas-fir for a whole cone, then look up into a grand fir. The cone orientation helps explain why you seldom find an intact grand fir cone at your feet.",
+    "sources": [
+      {
+        "label": "Oregon State University · Grand fir",
+        "url": "https://landscapeplants.oregonstate.edu/plants/abies-grandis"
+      },
+      {
+        "label": "B.C. Tree Species Compendium · Grand fir",
+        "url": "https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/stocking-standards/tree-species-compendium-index/grand-fir"
+      },
+      {
+        "label": "UBC Biology · Key to common campus conifers",
+        "url": "https://blogs.ubc.ca/conifersubc/?page_id=4"
+      }
+    ],
+    "revision": "13745385a3fb",
+    "aliases": [],
+    "photo": {
+      "id": "abies-grandis",
+      "credit": "© Juli Mallett",
+      "title": "Abies grandis (iNaturalist photo 177381488)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/177381488",
+      "observationUrl": "https://www.inaturalist.org/observations/105686852",
+      "view": "Leaf",
+      "alt": "Flat, shiny needles spread out in two ranks along a twig.",
+      "url": "./assets/photos/abies-grandis.jpg"
+    },
+    "locationCount": 32
+  },
+  {
+    "id": "metasequoia-glyptostroboides",
+    "common": "Dawn redwood",
+    "botanical": "Metasequoia glyptostroboides",
+    "native": false,
+    "group": "Conifer",
+    "features": [
+      "Flat, soft needles sit in opposite pairs along short shoots.",
+      "The foliage turns rusty in autumn and drops, leaving the crown bare in winter.",
+      "Reddish-brown trunk bark fissures and peels in strips as the tree matures."
+    ],
+    "lookalikes": "Bald cypress also loses its foliage but has alternate needles along its shoots. Coast redwood keeps live green foliage through winter and its flat needles are arranged alternately.",
+    "design": "Use as a large specimen on an open site with moist, well-drained soil and room for its tall crown.",
+    "ecology": "Pollen and seed cones develop on the same tree. The genus has a fossil history in western North America, while the living species is native to China.",
+    "controversy": "When a lineage is known from regional fossils, what time scale should guide use of the word ‘native’ in a campus planting plan?",
+    "tour": "UBC’s teaching conifer walk has featured both dawn redwood and giant sequoia. Ask which one will be bare in winter, then check leaf arrangement to explain the difference.",
+    "sources": [
+      {
+        "label": "Oregon State University · Dawn redwood and fossil history",
+        "url": "https://landscapeplants.oregonstate.edu/plants/metasequoia-glyptostroboides"
+      },
+      {
+        "label": "Oregon State University · Bald cypress",
+        "url": "https://landscapeplants.oregonstate.edu/plants/taxodium-distichum"
+      },
+      {
+        "label": "UBC Botanical Garden · Dawn redwood in the collection",
+        "url": "https://botanicalgarden.ubc.ca/news-events/may-in-the-garden-2023/"
+      },
+      {
+        "label": "UBC Biology · Conifer Walk",
+        "url": "https://blogs.ubc.ca/conifersubc/?page_id=581"
+      }
+    ],
+    "revision": "b8a11caa96fd",
+    "aliases": [],
+    "photo": {
+      "id": "metasequoia-glyptostroboides",
+      "credit": "© geosesarma",
+      "title": "Metasequoia glyptostroboides (iNaturalist photo 578117516)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/578117516",
+      "observationUrl": "https://www.inaturalist.org/observations/319794026",
+      "view": "Leaf",
+      "alt": "A flat spray has paired pale-green needles on either side of the twig.",
+      "url": "./assets/photos/metasequoia-glyptostroboides.jpg"
+    },
+    "locationCount": 26
+  },
+  {
+    "id": "populus-trichocarpa",
+    "common": "Black cottonwood",
+    "botanical": "Populus trichocarpa",
+    "native": true,
+    "group": "Broadleaf",
+    "features": [
+      "Pointed, resinous buds are often fragrant as they open in spring.",
+      "Alternate leaves are finely toothed and silvery green beneath.",
+      "Female catkins release seeds attached to silky white hairs."
+    ],
+    "lookalikes": "Trembling aspen has rounder leaves with laterally flattened stalks. Black cottonwood leaf stalks are round in cross section.",
+    "design": "Use on spacious riparian sites where a large crown and spreading roots have room.",
+    "ecology": "On floodplains, new sediment can bury part of the stem, where additional roots may form above older roots.",
+    "controversy": "Where can the benefits of a fast-growing cottonwood outweigh seasonal seed litter and branch-management needs?",
+    "tour": "Find a fallen tuft in late spring and look for the tiny seed. Wind can carry it away from the parent tree on its silky hairs.",
+    "sources": [
+      {
+        "label": "Oregon State University · Black cottonwood",
+        "url": "https://landscapeplants.oregonstate.edu/plants/populus-trichocarpa"
+      },
+      {
+        "label": "Oregon State University · Trembling aspen",
+        "url": "https://landscapeplants.oregonstate.edu/plants/populus-tremuloides"
+      },
+      {
+        "label": "B.C. Tree Species Compendium · Black cottonwood",
+        "url": "https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/stocking-standards/tree-species-compendium-index/black-cottonwood"
+      }
+    ],
+    "revision": "9a356360dfd7",
+    "aliases": [],
+    "photo": {
+      "id": "populus-trichocarpa",
+      "credit": "© Bruce Homer-Smith",
+      "title": "Populus trichocarpa (iNaturalist photo 86061536)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/86061536",
+      "observationUrl": "https://www.inaturalist.org/observations/54097984",
+      "view": "Leaf",
+      "alt": "A glossy green leaf has a pointed tip and strong pale midrib.",
+      "url": "./assets/photos/populus-trichocarpa.jpg"
+    },
+    "locationCount": 24
+  },
+  {
+    "id": "arbutus-menziesii",
+    "common": "Arbutus",
+    "botanical": "Arbutus menziesii",
+    "native": true,
+    "group": "Broadleaf",
+    "features": [
+      "Smooth red to orange bark peels away in thin flakes, especially on younger stems.",
+      "Shiny, leathery oval leaves stay on the tree through winter.",
+      "Clusters of small white urn-shaped flowers can be followed by orange-red berries."
+    ],
+    "lookalikes": "Strawberry tree also has evergreen leaves and reddish bark. Its leaves are usually clearly serrated and its round, coarse-textured fruits are larger.",
+    "design": "Use as a specimen on a well-drained slope. Its irregular shedding of bark and leaves is easier to accommodate away from high-maintenance paving.",
+    "ecology": "Arbutus grows naturally on rocky slopes and dry, open sites around the southern B.C. coast.",
+    "controversy": "Should designers plant arbutus more widely as summers dry, or concentrate it on sites with the drainage and establishment conditions it needs?",
+    "tour": "Ask the group to name a nearby evergreen, then show them a broad-leaved evergreen. The peeling trunk makes this an identification stop in winter too.",
+    "sources": [
+      {
+        "label": "E-Flora BC · Arbutus",
+        "url": "https://linnet.geog.ubc.ca/Atlas/Atlas.aspx?sciname=Arbutus"
+      },
+      {
+        "label": "Oregon State University · Arbutus",
+        "url": "https://landscapeplants.oregonstate.edu/plants/arbutus-menziesii"
+      },
+      {
+        "label": "Oregon State University · Strawberry tree",
+        "url": "https://landscapeplants.oregonstate.edu/plants/arbutus-unedo"
+      }
+    ],
+    "revision": "6aaf36a27a8c",
+    "aliases": [
+      "Pacific madrone",
+      "Madrone"
+    ],
+    "photo": {
+      "id": "arbutus-menziesii",
+      "credit": "© Steve Taylor",
+      "title": "Arbutus menziesii (iNaturalist photo 764778265)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/764778265",
+      "observationUrl": "https://www.inaturalist.org/observations/415341477",
+      "view": "Bark",
+      "alt": "Smooth cinnamon-brown branches and leathery evergreen leaves.",
+      "url": "./assets/photos/arbutus-menziesii.jpg"
+    },
+    "locationCount": 20
+  },
+  {
+    "id": "quercus-garryana",
+    "common": "Garry oak",
+    "botanical": "Quercus garryana",
+    "native": true,
+    "group": "Broadleaf",
+    "features": [
+      "Alternate leaves have rounded lobes with no bristle tips.",
+      "Oval acorns sit in shallow, scaly cups.",
+      "Open-grown mature trees often develop a broad crown with heavy, crooked limbs."
+    ],
+    "lookalikes": "Northern red oak has pointed, bristle-tipped lobes. Check several leaves, since both species vary in the depth of the sinuses.",
+    "design": "Use in sunny woodland or meadow plantings with low summer irrigation, such as the demonstration at UBC Botanical Garden.",
+    "ecology": "Garry oak is part of an at-risk meadow and woodland ecosystem with diverse spring-flowering plants.",
+    "controversy": "In an oak meadow, when should managers intervene to limit woody encroachment, and who should guide those decisions?",
+    "tour": "An oak can shade a campus lawn or stand within a meadow. Ask what changes when you manage the whole plant community. UBC Botanical Garden describes historical First Nations stewardship of these meadows for camas.",
+    "sources": [
+      {
+        "label": "Oregon State University · Garry oak",
+        "url": "https://landscapeplants.oregonstate.edu/plants/quercus-garryana"
+      },
+      {
+        "label": "Oregon State University · Northern red oak",
+        "url": "https://landscapeplants.oregonstate.edu/plants/quercus-rubra"
+      },
+      {
+        "label": "UBC Botanical Garden · Garry Oak Meadow and Woodland Garden",
+        "url": "https://botanicalgarden.ubc.ca/attractions-gardens/garry-oak-meadow-and-woodland-garden/"
+      }
+    ],
+    "revision": "705d9c65a525",
+    "aliases": [
+      "Oregon white oak"
+    ],
+    "photo": {
+      "id": "quercus-garryana",
+      "credit": "© Conquest",
+      "title": "Quercus garryana (iNaturalist photo 671444517)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/671444517",
+      "observationUrl": "https://www.inaturalist.org/observations/367662908",
+      "view": "Leaf",
+      "alt": "Leaves on a branch have broad, rounded lobes.",
+      "url": "./assets/photos/quercus-garryana.jpg"
+    },
+    "locationCount": 21
+  },
+  {
+    "id": "sequoia-sempervirens",
+    "common": "Coast redwood",
+    "botanical": "Sequoia sempervirens",
+    "native": false,
+    "group": "Conifer",
+    "features": [
+      "Many side shoots carry flat needles in two apparent ranks, with pale bands below.",
+      "Bark is reddish-brown and fibrous. The crown retains green foliage through winter.",
+      "Relatively small, egg-shaped seed cones, generally around 2 cm long."
+    ],
+    "lookalikes": "Dawn redwood has paired opposite needles and loses its leaves in winter. Giant sequoia has overlapping awl-like foliage on rounded shoots and substantially larger cones.",
+    "design": "Give a specimen ample room and protect its root zone. A sheltered site with deep, moist soil fits better than a narrow, dry planting pit.",
+    "ecology": "Coastal fog wets the canopy and contributes moisture to native forests during dry summers.",
+    "controversy": "When considering assisted migration for a drought-sensitive tree, which evidence of future site suitability should matter most? How would you distinguish a campus planting trial from evidence of forest establishment?",
+    "tour": "Compare a small cone with the size of the tree. Use the flat foliage to contrast coast redwood with giant sequoia, then discuss what summer fog contributes to its native habitat.",
+    "sources": [
+      {
+        "label": "Oregon State University · Coast redwood foliage and cones",
+        "url": "https://landscapeplants.oregonstate.edu/plants/sequoia-sempervirens"
+      },
+      {
+        "label": "Oregon State University · Giant sequoia",
+        "url": "https://landscapeplants.oregonstate.edu/plants/sequoiadendron-giganteum"
+      },
+      {
+        "label": "National Park Service · Coast redwood ecology",
+        "url": "https://www.nps.gov/articles/000/coast-redwood.htm"
+      },
+      {
+        "label": "National Park Service · Redwoods and climate change",
+        "url": "https://www.nps.gov/redw/learn/nature/climate-change.htm"
+      }
+    ],
+    "revision": "cf3a7d349f94",
+    "aliases": [
+      "Coastal redwood"
+    ],
+    "photo": {
+      "id": "sequoia-sempervirens",
+      "credit": "© Cody Hinchliff",
+      "title": "Sequoia sempervirens (iNaturalist photo 765203832)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/765203832",
+      "observationUrl": "https://www.inaturalist.org/observations/415551557",
+      "view": "Form",
+      "alt": "Very tall, straight reddish trunks rise above a layered green understory.",
+      "url": "./assets/photos/sequoia-sempervirens.jpg"
+    },
+    "locationCount": 20
+  },
+  {
+    "id": "sequoiadendron-giganteum",
+    "common": "Giant sequoia",
+    "botanical": "Sequoiadendron giganteum",
+    "native": false,
+    "group": "Conifer",
+    "features": [
+      "Short, sharp, overlapping awl-shaped leaves cover rounded branchlets.",
+      "Mature bark is very thick, soft-fibrous and deeply furrowed.",
+      "Woody, egg-shaped seed cones are commonly about 5–9 cm long."
+    ],
+    "lookalikes": "Coast redwood usually has flattened needles on many side shoots and much smaller cones. Both have reddish fibrous bark, so combine foliage and cones for the ID.",
+    "design": "Reserve for a generous lawn or open landscape where trunk and crown expansion can be accommodated for decades.",
+    "ecology": "In its native Sierra Nevada groves, fire can open canopy gaps and expose seedbeds where seedlings establish. Severe fire can also kill mature trees.",
+    "controversy": "How should managers weigh the hazards of prescribed fire against the need to regenerate giant sequoias and reduce fuels in their native groves?",
+    "tour": "UBC’s teaching walk includes giant sequoia. Use its thick bark and small seeds to discuss the difference between surviving a fire and establishing a new generation afterward.",
+    "sources": [
+      {
+        "label": "Oregon State University · Giant sequoia",
+        "url": "https://landscapeplants.oregonstate.edu/plants/sequoiadendron-giganteum"
+      },
+      {
+        "label": "Oregon State University · Coast redwood",
+        "url": "https://landscapeplants.oregonstate.edu/plants/sequoia-sempervirens"
+      },
+      {
+        "label": "National Park Service · Giant sequoias and fire",
+        "url": "https://www.nps.gov/seki/learn/nature/giant-sequoias-and-fire.htm"
+      },
+      {
+        "label": "UBC Biology · Conifer Walk",
+        "url": "https://blogs.ubc.ca/conifersubc/?page_id=581"
+      }
+    ],
+    "revision": "c9680f2f2acf",
+    "aliases": [],
+    "photo": {
+      "id": "sequoiadendron-giganteum",
+      "credit": "© Hank Raizen",
+      "title": "Sequoiadendron giganteum (iNaturalist photo 748103901)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/748103901",
+      "observationUrl": "https://www.inaturalist.org/observations/407125763",
+      "view": "Form",
+      "alt": "A massive orange-brown trunk flares broadly near the ground.",
+      "url": "./assets/photos/sequoiadendron-giganteum.jpg"
+    },
+    "locationCount": 19
+  },
+  {
+    "id": "picea-sitchensis",
+    "common": "Sitka spruce",
+    "botanical": "Picea sitchensis",
+    "native": true,
+    "group": "Conifer",
+    "features": [
+      "Stiff, sharply pointed needles are green above and silvery beneath.",
+      "Needles attach to short woody pegs that stay on an older bare twig.",
+      "Thin grey or purplish-brown bark breaks into small scaly plates."
+    ],
+    "lookalikes": "Blue forms of Colorado spruce often look silvery on both sides of the needle. Sitka spruce usually has a stronger contrast between upper and lower surfaces.",
+    "design": "Use as a large specimen where the soil stays moist and the sharp foliage can sit clear of pedestrian routes.",
+    "ecology": "Sitka spruce tolerates coastal salt spray and can grow on soils influenced by brackish water.",
+    "controversy": "Would you plant Sitka spruce on an exposed site because it tolerates salt spray, if you expect the soil itself to become drier?",
+    "tour": "Turn over a low branchlet to see its two-toned needles. Use the tree to ask why tolerance of coastal spray and tolerance of dry soil are different traits.",
+    "sources": [
+      {
+        "label": "Oregon State University · Sitka spruce",
+        "url": "https://landscapeplants.oregonstate.edu/plants/picea-sitchensis"
+      },
+      {
+        "label": "B.C. Tree Species Compendium · Sitka spruce",
+        "url": "https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/stocking-standards/tree-species-compendium-index/sitka-spruce"
+      },
+      {
+        "label": "UBC Biology · Key to common campus conifers",
+        "url": "https://blogs.ubc.ca/conifersubc/?page_id=4"
+      }
+    ],
+    "revision": "ba536f454e4a",
+    "aliases": [],
+    "photo": {
+      "id": "picea-sitchensis",
+      "credit": "© giantcicada",
+      "title": "Picea sitchensis (iNaturalist photo 407650262)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/407650262",
+      "observationUrl": "https://www.inaturalist.org/observations/229644171",
+      "view": "Leaf",
+      "alt": "Stiff green needles spread around hanging twigs.",
+      "url": "./assets/photos/picea-sitchensis.jpg"
+    },
+    "locationCount": 15
+  }
+]

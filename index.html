@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#173c32">
+  <meta name="description" content="Learn the trees of UBC Vancouver in five-minute field study sessions.">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <title>UBC Urban Forest Explorer</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icons/tree-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="./icons/tree-180.png">
+  <link rel="stylesheet" href="./vendor/leaflet.css">
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="./vendor/leaflet.js"></script>
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="topbar">
+    <div class="top-inner">
+      <a class="brand" href="#today" aria-label="UBC Urban Forest Explorer home">
+        <img src="./icons/tree-192.png" alt="" width="40" height="40">
+        <span><span class="brand-name">Urban Forest Explorer</span><span class="brand-campus">UBC Vancouver</span></span>
+      </a>
+      <span id="header-date" class="header-date"></span>
+    </div>
+  </header>
+  <main id="main" tabindex="-1" aria-busy="true" class="shell">
+    <p class="initial-status" role="status">Loading your field guide…</p>
+  </main>
+  <nav class="navigation" id="nav" aria-label="Main navigation"></nav>
+  <div id="announcement" class="sr-only" role="status" aria-live="polite"></div>
+  <noscript>Enable JavaScript to use this field guide.</noscript>
+</body>
+</html>
